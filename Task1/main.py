@@ -2,7 +2,7 @@ import cfg
 n=cfg.n
 m=cfg.m
 edges=cfg.edges
-f = open("output.txt", "w")
+f = open("Task1\output.txt", "w")
 f.write("c Generated CNF for Graph with:\n")
 f.write("c n = {}\n".format(n))
 f.write("c m = {}\n".format(m))

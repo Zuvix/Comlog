@@ -10,7 +10,7 @@ c ------------------------
 2v3 
 c ------------------------
 c Rules to ensure there is exactly one color per node.
-c ------------------------
+c ------------------------sss
 n0c0 n0c1 n0c2 
 -n0c1 -n0c2 
 -n0c0 -n0c2 
